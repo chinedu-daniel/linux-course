@@ -1,0 +1,209 @@
+### 20 Linux System Definitions
+
+**Line 1:** Linux — An open-source operating system kernel used to manage computer hardware and software resources.
+
+**Line 2:** Kernel — The core part of Linux that manages hardware, memory, processes, and system resources.
+
+**Line 3:** Shell — A program that allows users to interact with the Linux system by entering commands.
+
+**Line 4:** Terminal — A program used to access the shell and execute Linux commands.
+
+**Line 5:** File — A container used to store data such as text, programs, images, or configurations.
+
+**Line 6:** Directory — A location used to organize and store files and other directories.
+
+**Line 7:** Root Directory — The top-level directory of a Linux filesystem, represented by `/`.
+
+**Line 8:** Home Directory — A user's personal directory where their files and settings are stored.
+
+**Line 9:** Root User — The administrator account with full control over the Linux system.
+
+**Line 10:** Process — A running instance of a program.
+
+**Line 11:** Program — A set of instructions designed to perform a specific task.
+
+**Line 12:** Package — A collection of files containing software and information needed to install it.
+
+**Line 13:** Package Manager — A tool used to install, update, remove, and manage software packages.
+
+**Line 14:** Permission — Rules that determine who can read, write, or execute a file or directory.
+
+**Line 15:** User — An account that can interact with and use the Linux system.
+
+**Line 16:** Group — A collection of users used to manage permissions and access to resources.
+
+**Line 17:** Filesystem — The structure Linux uses to organize and store files on storage devices.
+
+**Line 18:** Command — An instruction entered into the shell to make Linux perform an action.
+
+**Line 19:** Environment Variable — A variable containing information that programs and the shell can use.
+
+**Line 20:** Process ID (PID) — A unique number assigned by Linux to each running process.
+
+### 20 Linux System Definitions
+
+**Line 1:** Linux — An open-source operating system kernel used to manage computer hardware and software resources.
+
+**Line 2:** Kernel — The core part of Linux that manages hardware, memory, processes, and system resources.
+
+**Line 3:** Shell — A program that allows users to interact with the Linux system by entering commands.
+
+**Line 4:** Terminal — A program used to access the shell and execute Linux commands.
+
+**Line 5:** File — A container used to store data such as text, programs, images, or configurations.
+
+**Line 6:** Directory — A location used to organize and store files and other directories.
+
+**Line 7:** Root Directory — The top-level directory of a Linux filesystem, represented by `/`.
+
+**Line 8:** Home Directory — A user's personal directory where their files and settings are stored.
+
+**Line 9:** Root User — The administrator account with full control over the Linux system.
+
+**Line 10:** Process — A running instance of a program.
+
+**Line 11:** Program — A set of instructions designed to perform a specific task.
+
+**Line 12:** Package — A collection of files containing software and information needed to install it.
+
+**Line 13:** Package Manager — A tool used to install, update, remove, and manage software packages.
+
+**Line 14:** Permission — Rules that determine who can read, write, or execute a file or directory.
+
+**Line 15:** User — An account that can interact with and use the Linux system.
+
+**Line 16:** Group — A collection of users used to manage permissions and access to resources.
+
+**Line 17:** Filesystem — The structure Linux uses to organize and store files on storage devices.
+
+**Line 18:** Command — An instruction entered into the shell to make Linux perform an action.
+
+**Line 19:** Environment Variable — A variable containing information that programs and the shell can use.
+
+**Line 20:** Process ID (PID) — A unique number assigned by Linux to each running process.
+
+### 20 Linux System Definitions
+
+**Line 1:** Linux — An open-source operating system kernel used to manage computer hardware and software resources.
+
+**Line 2:** Kernel — The core part of Linux that manages hardware, memory, processes, and system resources.
+
+**Line 3:** Shell — A program that allows users to interact with the Linux system by entering commands.
+
+**Line 4:** Terminal — A program used to access the shell and execute Linux commands.
+
+**Line 5:** File — A container used to store data such as text, programs, images, or configurations.
+
+**Line 6:** Directory — A location used to organize and store files and other directories.
+
+**Line 7:** Root Directory — The top-level directory of a Linux filesystem, represented by `/`.
+
+**Line 8:** Home Directory — A user's personal directory where their files and settings are stored.
+
+**Line 9:** Root User — The administrator account with full control over the Linux system.
+
+**Line 10:** Process — A running instance of a program.
+
+**Line 11:** Program — A set of instructions designed to perform a specific task.
+
+**Line 12:** Package — A collection of files containing software and information needed to install it.
+
+**Line 13:** Package Manager — A tool used to install, update, remove, and manage software packages.
+
+**Line 14:** Permission — Rules that determine who can read, write, or execute a file or directory.
+
+**Line 15:** User — An account that can interact with and use the Linux system.
+
+**Line 16:** Group — A collection of users used to manage permissions and access to resources.
+
+**Line 17:** Filesystem — The structure Linux uses to organize and store files on storage devices.
+
+**Line 18:** Command — An instruction entered into the shell to make Linux perform an action.
+
+**Line 19:** Environment Variable — A variable containing information that programs and the shell can use.
+
+**Line 20:** Process ID (PID) — A unique number assigned by Linux to each running process.
+
+### 20 Linux System Definitions
+
+**Line 1:** Linux — An open-source operating system kernel used to manage computer hardware and software resources.
+
+**Line 2:** Kernel — The core part of Linux that manages hardware, memory, processes, and system resources.
+
+**Line 3:** Shell — A program that allows users to interact with the Linux system by entering commands.
+
+**Line 4:** Terminal — A program used to access the shell and execute Linux commands.
+
+**Line 5:** File — A container used to store data such as text, programs, images, or configurations.
+
+**Line 6:** Directory — A location used to organize and store files and other directories.
+
+**Line 7:** Root Directory — The top-level directory of a Linux filesystem, represented by `/`.
+
+**Line 8:** Home Directory — A user's personal directory where their files and settings are stored.
+
+**Line 9:** Root User — The administrator account with full control over the Linux system.
+
+**Line 10:** Process — A running instance of a program.
+
+**Line 11:** Program — A set of instructions designed to perform a specific task.
+
+**Line 12:** Package — A collection of files containing software and information needed to install it.
+
+**Line 13:** Package Manager — A tool used to install, update, remove, and manage software packages.
+
+**Line 14:** Permission — Rules that determine who can read, write, or execute a file or directory.
+
+**Line 15:** User — An account that can interact with and use the Linux system.
+
+**Line 16:** Group — A collection of users used to manage permissions and access to resources.
+
+**Line 17:** Filesystem — The structure Linux uses to organize and store files on storage devices.
+
+**Line 18:** Command — An instruction entered into the shell to make Linux perform an action.
+
+**Line 19:** Environment Variable — A variable containing information that programs and the shell can use.
+
+**Line 20:** Process ID (PID) — A unique number assigned by Linux to each running process.
+
+### 20 Linux System Definitions
+
+**Line 1:** Linux — An open-source operating system kernel used to manage computer hardware and software resources.
+
+**Line 2:** Kernel — The core part of Linux that manages hardware, memory, processes, and system resources.
+
+**Line 3:** Shell — A program that allows users to interact with the Linux system by entering commands.
+
+**Line 4:** Terminal — A program used to access the shell and execute Linux commands.
+
+**Line 5:** File — A container used to store data such as text, programs, images, or configurations.
+
+**Line 6:** Directory — A location used to organize and store files and other directories.
+
+**Line 7:** Root Directory — The top-level directory of a Linux filesystem, represented by `/`.
+
+**Line 8:** Home Directory — A user's personal directory where their files and settings are stored.
+
+**Line 9:** Root User — The administrator account with full control over the Linux system.
+
+**Line 10:** Process — A running instance of a program.
+
+**Line 11:** Program — A set of instructions designed to perform a specific task.
+
+**Line 12:** Package — A collection of files containing software and information needed to install it.
+
+**Line 13:** Package Manager — A tool used to install, update, remove, and manage software packages.
+
+**Line 14:** Permission — Rules that determine who can read, write, or execute a file or directory.
+
+**Line 15:** User — An account that can interact with and use the Linux system.
+
+**Line 16:** Group — A collection of users used to manage permissions and access to resources.
+
+**Line 17:** Filesystem — The structure Linux uses to organize and store files on storage devices.
+
+**Line 18:** Command — An instruction entered into the shell to make Linux perform an action.
+
+**Line 19:** Environment Variable — A variable containing information that programs and the shell can use.
+
+**Line 20:** Process ID (PID) — A unique number assigned by Linux to each running process.

@@ -1,0 +1,4 @@
+Chinedu,25,Lagos
+Ada,22,Abuja
+Michael,30,Ibadan
+Daniel,27,Enugu

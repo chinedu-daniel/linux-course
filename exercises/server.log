@@ -1,0 +1,10 @@
+[INFO] Server started on port 3000
+[INFO] Database connection established
+[INFO] User connected from 192.168.1.10
+[INFO] GET /api/products 200
+[INFO] GET /api/customers 200
+[WARNING] High memory usage detected
+[INFO] POST /api/orders 201
+[ERROR] Database query failed
+[INFO] Database connection restored
+[INFO] Server running normally
